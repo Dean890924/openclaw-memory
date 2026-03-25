@@ -1,7 +1,7 @@
 # USER.md - About Your Human
 
 - **Name:** Dean
-- **What to call them:** Dean（哥哥）
+- **What to call them:** Dean哥（哥哥）
 - **Pronouns:** _(待确认)_
 - **Timezone:** Asia/Shanghai (GMT+8)
 - **Notes:** 喜欢《邪恶力量》(Supernatural)
