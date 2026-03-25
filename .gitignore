@@ -1,0 +1,19 @@
+# GitHub 标准忽略规则
+# 不上传敏感文件
+
+# 环境变量
+.env
+.env.local
+.env.*.local
+
+# 凭据
+*.pem
+*.key
+credentials.json
+
+# macOS
+.DS_Store
+
+# 日志
+*.log
+logs/
